@@ -1,0 +1,11 @@
+http:
+  address: 0.0.0.0:8080
+  workers:
+    command: "php public/worker.php"
+    relay:   "pipes"
+    pool:
+      numWorkers: 4
+
+static:
+  dir:    "public"
+  forbid: [".php", ".htaccess"]

@@ -1,0 +1,33 @@
+service: rr-sf
+
+provider:
+  name: aws
+  runtime: go1.x
+  stage: prod
+  region: eu-west-3
+
+functions:
+  main:
+    handler: bin/main
+    timeout: 20 # Timeout in seconds, the default is 6 seconds
+    reservedConcurrency: 20 # Maximum concurrency (parallel executions), the default is 1000
+    environment:
+      APP_ENV: 'prod'
+      APP_DEBUG: '1'
+      APP_SECRET: 'e05deb13d61f8b423d11c9b70a42e19b'
+    events:
+      - http: 'ANY /'
+      - http: 'ANY {proxy+}'
+
+package:
+ exclude:
+   - ./**
+ include:
+   - ./composer.json
+   - ./bin/**
+   - ./config/**
+   - ./public/**
+   - ./src/**
+   - ./templates/**
+   - ./var/cache/prod/**
+   - ./vendor/**
