@@ -99,7 +99,7 @@
         "version": "1.0-dev"
     },
     "symfony/debug": {
-        "version": "4.3-dev"
+        "version": "v4.2.0"
     },
     "symfony/debug-bundle": {
         "version": "4.1",

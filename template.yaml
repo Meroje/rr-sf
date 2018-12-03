@@ -27,7 +27,7 @@ Resources:
       Environment: # More info about Env Vars: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#environment-object
         Variables:
           APP_ENV: 'prod'
-          APP_DEBUG: '1'
+          APP_DEBUG: '0'
           APP_SECRET: 'e05deb13d61f8b423d11c9b70a42e19b'
 
 Outputs:
