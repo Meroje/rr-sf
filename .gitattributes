@@ -1,5 +1,5 @@
 *.so filter=lfs diff=lfs merge=lfs -text
 bin/rr filter=lfs diff=lfs merge=lfs -text
 bin/php filter=lfs diff=lfs merge=lfs -text
-bin/main filter=lfs diff=lfs merge=lfs -text
+bin/aws-handler filter=lfs diff=lfs merge=lfs -text
 *.so.50 filter=lfs diff=lfs merge=lfs -text

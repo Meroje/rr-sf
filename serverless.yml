@@ -8,7 +8,7 @@ provider:
 
 functions:
   main:
-    handler: bin/main
+    handler: bin/aws-handler
     timeout: 20 # Timeout in seconds, the default is 6 seconds
     reservedConcurrency: 20 # Maximum concurrency (parallel executions), the default is 1000
     environment:

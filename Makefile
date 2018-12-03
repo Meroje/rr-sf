@@ -1,10 +1,10 @@
 .PHONY: deps clean build
 
 deps:
-	cd aws-handler && dep ensure -v
+	go get -u
 
 clean: 
-	rm -f ./bin/main
+	rm -f ./bin/aws-handler
 	
 build:
-	GOOS=linux GOARCH=amd64 go build -o bin/main ./aws-handler/main.go
+	GOOS=linux GOARCH=amd64 go build -o bin/aws-handler ./bin/aws-handler.go
