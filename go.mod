@@ -21,7 +21,7 @@ require (
 	github.com/spiral/goridge v2.1.2+incompatible
 	github.com/spiral/roadrunner v1.2.6
 	golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9
-	golang.org/x/net v0.0.0-20181201002055-351d144fa1fc
+	golang.org/x/net v0.0.0-20181207155604-610586996380
 	golang.org/x/sys v0.0.0-20181206084207-70b957f3b65e
 	golang.org/x/text v0.3.0
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
