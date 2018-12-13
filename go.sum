@@ -1,6 +1,7 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
 github.com/StackExchange/wmi v0.0.0-20180725035823-b12b22c5341f/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
+github.com/StackExchange/wmi v0.0.0-20181213025223-e0a55b97c705/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
 github.com/apex/go-apex v1.0.0 h1:Em8+vo4WXEQp7GfNDTr35HRnE5sFYcRpkTODpVjU39A=
 github.com/apex/go-apex v1.0.0/go.mod h1:Hy8WsL4dnQc/bYBxElRQ7xHXLNBAqz0BVxUhHiGwKLA=
 github.com/aws/aws-lambda-go v1.7.0 h1:g3Ad7aw27B2lhQLIuK7Aha+cWSaHr7ZNlngveHkhZyo=
