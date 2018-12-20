@@ -18,7 +18,7 @@ require (
 	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/cast v1.3.0 // indirect
 	github.com/spf13/pflag v1.0.3 // indirect
-	github.com/spiral/goridge v2.1.2+incompatible
+	github.com/spiral/goridge v2.1.3
 	github.com/spiral/roadrunner v1.2.6
 	golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9
 	golang.org/x/net v0.0.0-20181207155604-610586996380
