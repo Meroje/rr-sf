@@ -13,7 +13,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.1 // indirect
 	github.com/otiai10/copy v0.0.0-20180813032824-7e9a647135a1
 	github.com/pkg/errors v0.8.0
-	github.com/shirou/gopsutil v2.18.11+incompatible
+	github.com/shirou/gopsutil v2.18.12
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4
 	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/cast v1.3.0 // indirect
