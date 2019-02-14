@@ -19,7 +19,7 @@ require (
 	github.com/spf13/cast v1.3.0 // indirect
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/spiral/goridge v2.1.3
-	github.com/spiral/roadrunner v1.2.8
+	github.com/spiral/roadrunner v1.3.5
 	golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9
 	golang.org/x/net v0.0.0-20190213064452-3a22650c66bd
 	golang.org/x/sys v0.0.0-20181213085711-73d4af5aa059
