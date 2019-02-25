@@ -11,7 +11,7 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.1
 	github.com/mitchellh/mapstructure v1.1.2 // indirect
 	github.com/olekukonko/tablewriter v0.0.1 // indirect
-	github.com/otiai10/copy v0.0.0-20180813032824-7e9a647135a1
+	github.com/otiai10/copy v0.0.0-20190225095256-eb7e34b5fa7d
 	github.com/pkg/errors v0.8.1
 	github.com/shirou/gopsutil v2.18.12
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4
