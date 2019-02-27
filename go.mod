@@ -8,7 +8,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/fujiwara/ridge v0.0.0-20181010053352-85ec137ce91d
 	github.com/go-ole/go-ole v1.2.2
-	github.com/konsorten/go-windows-terminal-sequences v1.0.1
+	github.com/konsorten/go-windows-terminal-sequences v1.0.2
 	github.com/mitchellh/mapstructure v1.1.2 // indirect
 	github.com/olekukonko/tablewriter v0.0.1 // indirect
 	github.com/otiai10/copy v0.0.0-20180813032824-7e9a647135a1
