@@ -3,7 +3,7 @@ module github.com/Meroje/rr-sf
 require (
 	github.com/StackExchange/wmi v0.0.0-20181213025223-e0a55b97c705
 	github.com/apex/go-apex v1.0.0
-	github.com/aws/aws-lambda-go v1.8.2
+	github.com/aws/aws-lambda-go v1.9.0
 	github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37 // indirect
 	github.com/coreos/etcd v3.3.12+incompatible // indirect
 	github.com/fujiwara/ridge v0.0.0-20181010053352-85ec137ce91d
