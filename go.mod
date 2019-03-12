@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-lambda-go v1.9.0
 	github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37 // indirect
 	github.com/coreos/etcd v3.3.12+incompatible // indirect
-	github.com/fujiwara/ridge v0.0.0-20181010053352-85ec137ce91d
+	github.com/fujiwara/ridge v0.0.0-20190312084119-3b8228696ce7
 	github.com/go-ole/go-ole v1.2.4
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
 	github.com/kr/pty v1.1.3 // indirect
