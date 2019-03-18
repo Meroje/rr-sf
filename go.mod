@@ -9,7 +9,7 @@ require (
 	github.com/fujiwara/ridge v0.0.0-20190312084119-3b8228696ce7
 	github.com/go-ole/go-ole v1.2.4
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
-	github.com/kr/pty v1.1.3 // indirect
+	github.com/kr/pty v1.1.4 // indirect
 	github.com/mattn/go-colorable v0.1.1 // indirect
 	github.com/mattn/go-isatty v0.0.7 // indirect
 	github.com/mattn/go-runewidth v0.0.4 // indirect
