@@ -25,7 +25,7 @@ require (
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43 // indirect
 	golang.org/x/crypto v0.0.0-20190325175104-a5d413f7728c
-	golang.org/x/net v0.0.0-20190324235352-e3b2ff56ed87
+	golang.org/x/net v0.0.0-20190326094051-15845e8f865b
 	golang.org/x/sys v0.0.0-20190322084743-f49334f85ddc
 	golang.org/x/text v0.3.0
 )
