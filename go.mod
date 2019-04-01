@@ -20,7 +20,7 @@ require (
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4
 	github.com/sirupsen/logrus v1.4.0
 	github.com/spf13/afero v1.2.2 // indirect
-	github.com/spiral/goridge v2.1.3+incompatible
+	github.com/spiral/goridge v2.1.4+incompatible
 	github.com/spiral/roadrunner v1.3.7
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43 // indirect
