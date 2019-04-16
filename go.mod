@@ -26,6 +26,6 @@ require (
 	github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43 // indirect
 	golang.org/x/crypto v0.0.0-20190325175104-a5d413f7728c
 	golang.org/x/net v0.0.0-20190327215941-63eda1eb0650
-	golang.org/x/sys v0.0.0-20190322084743-f49334f85ddc
+	golang.org/x/sys v0.0.0-20190416154631-12500544f89f
 	golang.org/x/text v0.3.0
 )
