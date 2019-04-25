@@ -27,5 +27,5 @@ require (
 	golang.org/x/crypto v0.0.0-20190424223851-c05e17bb3b2d
 	golang.org/x/net v0.0.0-20190424112755-4829fb13d2c6
 	golang.org/x/sys v0.0.0-20190422175615-953cdadca894
-	golang.org/x/text v0.3.1
+	golang.org/x/text v0.3.2
 )
