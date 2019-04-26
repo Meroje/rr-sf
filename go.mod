@@ -24,7 +24,7 @@ require (
 	github.com/spiral/roadrunner v1.3.7
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43 // indirect
-	golang.org/x/crypto v0.0.0-20190424223851-c05e17bb3b2d
+	golang.org/x/crypto v0.0.0-20190426153946-a29dc8fdc734
 	golang.org/x/net v0.0.0-20190424112755-4829fb13d2c6
 	golang.org/x/sys v0.0.0-20190422175615-953cdadca894
 	golang.org/x/text v0.3.2
