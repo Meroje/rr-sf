@@ -5,7 +5,7 @@ require (
 	github.com/apex/go-apex v1.0.0
 	github.com/aws/aws-lambda-go v1.10.0
 	github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37 // indirect
-	github.com/coreos/etcd v3.3.12+incompatible // indirect
+	github.com/coreos/etcd v3.3.13+incompatible // indirect
 	github.com/fujiwara/ridge v0.0.0-20190312084119-3b8228696ce7
 	github.com/go-ole/go-ole v1.2.4
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
