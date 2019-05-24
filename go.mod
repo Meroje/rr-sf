@@ -20,7 +20,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spiral/goridge v2.1.4+incompatible
-	github.com/spiral/roadrunner v1.4.1
+	github.com/spiral/roadrunner v1.4.2
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/ugorji/go/codec v1.1.4 // indirect
 	golang.org/x/crypto v0.0.0-20190513175942-22d7a77e9e5f
