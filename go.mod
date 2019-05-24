@@ -10,8 +10,7 @@ require (
 	github.com/go-ole/go-ole v1.2.4
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
 	github.com/kr/pty v1.1.4 // indirect
-	github.com/mattn/go-colorable v0.1.1 // indirect
-	github.com/mattn/go-isatty v0.0.8 // indirect
+	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/olekukonko/tablewriter v0.0.1 // indirect
 	github.com/otiai10/copy v1.0.1
