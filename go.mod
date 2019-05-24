@@ -22,7 +22,7 @@ require (
 	github.com/spiral/goridge v2.1.4+incompatible
 	github.com/spiral/roadrunner v1.4.1
 	github.com/stretchr/testify v1.3.0 // indirect
-	github.com/ugorji/go/codec v0.0.0-20190204201341-e444a5086c43 // indirect
+	github.com/ugorji/go/codec v1.1.4 // indirect
 	golang.org/x/crypto v0.0.0-20190513175942-22d7a77e9e5f
 	golang.org/x/net v0.0.0-20190424112755-4829fb13d2c6
 	golang.org/x/sys v0.0.0-20190509143528-a5b02f93d862
