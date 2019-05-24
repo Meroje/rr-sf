@@ -2,7 +2,8 @@
 ini_set('display_errors', 'stderr');
 
 use App\Kernel;
-use Symfony\Bridge\PsrHttpMessage\Factory\DiactorosFactory;
+use Http\Factory\Discovery\HttpFactory;
+use Symfony\Bridge\PsrHttpMessage\Factory\PsrHttpFactory;
 use Symfony\Bridge\PsrHttpMessage\Factory\HttpFoundationFactory;
 use Symfony\Component\Debug\Debug;
 use Symfony\Component\HttpFoundation\Request;
@@ -37,7 +38,7 @@ $kernel = new Kernel($_SERVER['APP_ENV'], (bool) $_SERVER['APP_DEBUG']);
 $relay = new StreamRelay(STDIN, STDOUT);
 $psr7 = new PSR7Client(new Worker($relay));
 $httpFoundationFactory = new HttpFoundationFactory();
-$diactorosFactory = new DiactorosFactory();
+$psrFactory = new PsrHttpFactory(HttpFactory::serverRequestFactory(), HttpFactory::streamFactory(), HttpFactory::uploadedFileFactory(), HttpFactory::responseFactory());
 
 while ($req = $psr7->acceptRequest()) {
     try {
@@ -46,7 +47,7 @@ while ($req = $psr7->acceptRequest()) {
             Request::setTrustedProxies(['127.0.0.1', $request->server->get('REMOTE_ADDR')], Request::HEADER_X_FORWARDED_AWS_ELB);
         }
         $response = $kernel->handle($request);
-        $psr7->respond($diactorosFactory->createResponse($response));
+        $psr7->respond($psrFactory->createResponse($response));
         $kernel->terminate($request, $response);
         $kernel->reboot(null);
     } catch (\Throwable $e) {

@@ -9,7 +9,7 @@ import (
 	"github.com/fujiwara/ridge"
 	"github.com/otiai10/copy"
 	"github.com/spiral/roadrunner"
-	rrhttp "github.com/spiral/roadrunner/service/http"
+	"github.com/spiral/roadrunner/service/http"
 )
 
 var srv *roadrunner.Server
@@ -56,7 +56,7 @@ func handle(event json.RawMessage) (interface{}, error) {
 	if err != nil {
 		return nil, err
 	}
-	request, err := rrhttp.NewRequest(r, &rrhttp.UploadsConfig{
+	request, err := http.NewRequest(r, &http.UploadsConfig{
 		Dir:    os.TempDir(),
 		Forbid: []string{".php", ".exe", ".bat"},
 	})
@@ -74,7 +74,7 @@ func handle(event json.RawMessage) (interface{}, error) {
 		return nil, err
 	}
 
-	response, err := rrhttp.NewResponse(res)
+	response, err := http.NewResponse(res)
 	if err != nil {
 		return nil, err
 	}
