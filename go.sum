@@ -100,6 +100,7 @@ github.com/spiral/roadrunner v1.4.1 h1:9+bS7OUU7rVkEEGItn/gPgD1c+H07iA+ScJp89KKm
 github.com/spiral/roadrunner v1.4.1/go.mod h1:fazdN4wT/eIj8FwUXVnZjreMmTPl0KXwlfCdKRSrj9Q=
 github.com/spiral/roadrunner v1.4.2 h1:lrljnNKdeCrJy3ur2S6pEeC40bveFypZgMizWhpdlpo=
 github.com/spiral/roadrunner v1.4.2/go.mod h1:+feD9ajQDGU2yPj1FI03rbZ6R6VLOMuwNalz1oUwheg=
+github.com/spiral/roadrunner v1.4.3/go.mod h1:+feD9ajQDGU2yPj1FI03rbZ6R6VLOMuwNalz1oUwheg=
 github.com/streadway/amqp v0.0.0-20181205114330-a314942b2fd9/go.mod h1:1WNBiOZtZQLpVAyu0iTduoJL9hEsMloAK5XWrtW0xdY=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
