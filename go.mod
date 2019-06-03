@@ -12,7 +12,7 @@ require (
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/spiral/goridge v2.1.4+incompatible // indirect
-	github.com/spiral/roadrunner v1.4.2
+	github.com/spiral/roadrunner v1.4.3
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/tj/assert v0.0.0-20171129193455-018094318fb0 // indirect
 	golang.org/x/net v0.0.0-20190522155817-f3200d17e092 // indirect
