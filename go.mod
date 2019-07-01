@@ -8,7 +8,6 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/otiai10/copy v1.0.1
 	github.com/otiai10/curr v0.0.0-20190513014714-f5a3d24e5776 // indirect
-	github.com/shirou/gopsutil v2.18.12+incompatible // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/spiral/goridge v2.1.4+incompatible // indirect
 	github.com/spiral/roadrunner v1.4.5
