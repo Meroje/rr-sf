@@ -12,7 +12,7 @@ require (
 	github.com/spiral/goridge v2.1.4+incompatible // indirect
 	github.com/spiral/roadrunner v1.4.6
 	github.com/tj/assert v0.0.0-20171129193455-018094318fb0 // indirect
-	golang.org/x/net v0.0.0-20190522155817-f3200d17e092 // indirect
+	golang.org/x/net v0.0.0-20190724014022-ca1201d0de80 // indirect
 	golang.org/x/sys v0.0.0-20190610202901-93c9922d18ae // indirect
 	golang.org/x/text v0.3.2 // indirect
 )
