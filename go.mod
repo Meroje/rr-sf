@@ -13,6 +13,6 @@ require (
 	github.com/spiral/roadrunner v1.4.7
 	github.com/tj/assert v0.0.0-20171129193455-018094318fb0 // indirect
 	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297 // indirect
-	golang.org/x/sys v0.0.0-20190830080133-08d80c9d36de // indirect
+	golang.org/x/sys v0.0.0-20190904005037-43c01164e931 // indirect
 	golang.org/x/text v0.3.2 // indirect
 )
