@@ -3,7 +3,7 @@ module github.com/Meroje/rr-sf
 require (
 	github.com/StackExchange/wmi v0.0.0-20190523213609-cbe66965904d // indirect
 	github.com/apex/go-apex v1.0.0 // indirect
-	github.com/aws/aws-lambda-go v1.13.1
+	github.com/aws/aws-lambda-go v1.13.2
 	github.com/fujiwara/ridge v0.0.0-20190312084119-3b8228696ce7
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/otiai10/copy v1.0.1
