@@ -11,7 +11,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/spiral/goridge v2.1.4+incompatible // indirect
 	github.com/spiral/roadrunner v1.4.7
-	github.com/tj/assert v0.0.0-20171129193455-018094318fb0 // indirect
+	github.com/tj/assert ee03d75cd160 // indirect
 	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297 // indirect
 	golang.org/x/sys v0.0.0-20190904154756-749cb33beabd // indirect
 	golang.org/x/text v0.3.2 // indirect
