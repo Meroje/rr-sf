@@ -10,7 +10,7 @@ require (
 	github.com/otiai10/curr v0.0.0-20190513014714-f5a3d24e5776 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/spiral/goridge v2.1.4+incompatible // indirect
-	github.com/spiral/roadrunner v1.5.0
+	github.com/spiral/roadrunner v1.5.3
 	github.com/tj/assert v0.0.0-20171129193455-018094318fb0 // indirect
 	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297 // indirect
 	golang.org/x/sys 06d7bd2c5f4f // indirect
