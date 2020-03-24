@@ -220,6 +220,8 @@ github.com/spiral/goridge v2.1.3+incompatible h1:TV3B42ilftx9eR3n8wW0zCRcgSfCi5z
 github.com/spiral/goridge v2.1.3+incompatible/go.mod h1:prfLTN9qOpQxO6dtfCMJZ+uguUdCxb/ntS8ML/s5U2U=
 github.com/spiral/goridge v2.1.4+incompatible h1:L15TKrbPEp/G6JfS3jjuvY6whkhfD292XX+1iy9mO2k=
 github.com/spiral/goridge v2.1.4+incompatible/go.mod h1:prfLTN9qOpQxO6dtfCMJZ+uguUdCxb/ntS8ML/s5U2U=
+github.com/spiral/goridge/v2 v2.3.0 h1:oQs0Njior19jCt88YAMmcnpyiZCApF1lMrYLS7O313U=
+github.com/spiral/goridge/v2 v2.3.0/go.mod h1:NxcCipXONzZ6smmLUl9SsnT/YJjIjDphIfbzRJICLd8=
 github.com/spiral/roadrunner v1.5.3 h1:t+ueDFKlCFd0kj/6ZruzrIEN6zqgeN8DAHjl1Ao7LjI=
 github.com/spiral/roadrunner v1.5.3/go.mod h1:TsADlOcWB97BwVVOhyVxZKpPWbpBkcguqgyRxu/FDfg=
 github.com/spiral/roadrunner v1.6.0 h1:qtqKFithNuzaNTqAfq5TaMcW5W451rwmwkgMUWerHt8=
@@ -232,6 +234,8 @@ github.com/spiral/roadrunner v1.6.3 h1:ScCm7Z5uXy5ebnmsABg3nDoWJNhbvSDdC/RInyMix
 github.com/spiral/roadrunner v1.6.3/go.mod h1:xoopP+HlUbieQbBr2iij6ODkEEvvXLVItegESFyCSIw=
 github.com/spiral/roadrunner v1.6.4 h1:gLZIiWgU4+mM0yfyplwB5SDwfnJLPTKp9FWfTBL43kE=
 github.com/spiral/roadrunner v1.6.4/go.mod h1:Kd6SkGuqElGuS1UqObWJn3UamE/jpZMdNGsa8ZS0Axc=
+github.com/spiral/roadrunner v1.7.0 h1:rLqOPFF+zptLP0fBjqAWAtn/mk7Gd653+ZY0hL9S9a0=
+github.com/spiral/roadrunner v1.7.0/go.mod h1:kDZt6ofSTNfESEsahNGyWgJLl2QTomPiKTJZf/wW4E0=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
