@@ -31,6 +31,7 @@ github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+Ce
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37 h1:uxxtrnACqI9zK4ENDMf0WpXfUsHP5V8liuq5QdgDISU=
 github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37/go.mod h1:u9UyCz2eTrSGy6fbupqJ54eY5c4IC8gREQ1053dK12U=
+github.com/cenkalti/backoff/v4 v4.0.0/go.mod h1:eEew/i+1Q6OrCDZh3WiXYv3+nJwBASZ8Bog/87DQnVg=
 github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghfAqPWnc=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
@@ -241,6 +242,8 @@ github.com/spiral/roadrunner v1.6.4 h1:gLZIiWgU4+mM0yfyplwB5SDwfnJLPTKp9FWfTBL43
 github.com/spiral/roadrunner v1.6.4/go.mod h1:Kd6SkGuqElGuS1UqObWJn3UamE/jpZMdNGsa8ZS0Axc=
 github.com/spiral/roadrunner v1.7.0 h1:rLqOPFF+zptLP0fBjqAWAtn/mk7Gd653+ZY0hL9S9a0=
 github.com/spiral/roadrunner v1.7.0/go.mod h1:kDZt6ofSTNfESEsahNGyWgJLl2QTomPiKTJZf/wW4E0=
+github.com/spiral/roadrunner v1.7.1 h1:Xabk0HOXCm2/jxD/8HCx+2RzYCUd0CKyYNMXYwrJKkg=
+github.com/spiral/roadrunner v1.7.1/go.mod h1:74R7jkvz7L9Mp6n/8liQUDd5uyA5f7uo8XHPSQmeOfg=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
