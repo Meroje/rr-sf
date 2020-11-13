@@ -37,6 +37,8 @@ github.com/aws/aws-lambda-go v1.18.0 h1:13AfxzFoPlFjOzXHbRnKuTbteCzHbu4YQgKONNhW
 github.com/aws/aws-lambda-go v1.18.0/go.mod h1:FEwgPLE6+8wcGBTe5cJN3JWurd1Ztm9zN4jsXsjzKKw=
 github.com/aws/aws-lambda-go v1.19.0 h1:Cn28zA8Mic4NpR7p4IlaEW2srI+U3+I7tRqjFMpt/fs=
 github.com/aws/aws-lambda-go v1.19.0/go.mod h1:jJmlefzPfGnckuHdXX7/80O3BvUUi12XOkbv4w9SGLU=
+github.com/aws/aws-lambda-go v1.20.0 h1:ZSweJx/Hy9BoIDXKBEh16vbHH0t0dehnF8MKpMiOWc0=
+github.com/aws/aws-lambda-go v1.20.0/go.mod h1:jJmlefzPfGnckuHdXX7/80O3BvUUi12XOkbv4w9SGLU=
 github.com/aws/aws-sdk-go v1.25.23/go.mod h1:KmX6BPdI08NWTb3/sm4ZGu5ShLoqVDhKgpiN924inxo=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/beorn7/perks v1.0.0 h1:HWo1m869IqiPhD389kmkxeTalrjNbbJTC8LXupb+sl0=
@@ -77,6 +79,8 @@ github.com/fujiwara/ridge v0.2.1 h1:eTqkdCfYoUKqflUAGTeMzsexRSUyJ+ag6cztc5B+SzE=
 github.com/fujiwara/ridge v0.2.1/go.mod h1:D3zwW7vLWnbyFW/bXJp6b830mT+pasaaaWUXzWkrLr4=
 github.com/fujiwara/ridge v0.4.0 h1:R/USMNEEm1GBHrPPA1GRecWDBQ4PP2ZWHb+UaK0A+CE=
 github.com/fujiwara/ridge v0.4.0/go.mod h1:/X8Cn8R7gbxXgA/rr9dMGwfQlKsDpB2oqrDv+u7HGWE=
+github.com/fujiwara/ridge v0.6.0 h1:2bZqI9HtKsRKkUAkV+f+kLSFNVgUB3LKqGCs8s0IKtc=
+github.com/fujiwara/ridge v0.6.0/go.mod h1:eqT5T9zuQfdw7PCgHSBt52qduTK4ryAngPlWyYUw3Ls=
 github.com/garyburd/redigo v1.6.0/go.mod h1:NR3MbYisc3/PwhQ00EMzDiPmrwpPxAn5GI05/YaO1SY=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
