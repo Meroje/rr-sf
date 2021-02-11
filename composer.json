@@ -7,7 +7,7 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "http-interop/http-factory-discovery": "^1.5",
-        "sensio/framework-extra-bundle": "^5.2@dev",
+        "sensio/framework-extra-bundle": "^6.0.0@dev",
         "spiral/roadrunner": "^1.4",
         "symfony/console": "*",
         "symfony/debug-pack": "dev-master",
