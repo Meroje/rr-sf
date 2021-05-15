@@ -8,7 +8,7 @@
         "ext-iconv": "*",
         "http-interop/http-factory-discovery": "^1.5",
         "sensio/framework-extra-bundle": "^5.2@dev",
-        "spiral/roadrunner": "^1.4",
+        "spiral/roadrunner": "^2.0",
         "symfony/console": "*",
         "symfony/debug-pack": "dev-master",
         "symfony/dotenv": "*",
