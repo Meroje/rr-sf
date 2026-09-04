@@ -12,7 +12,7 @@
         "symfony/console": "*",
         "symfony/debug-pack": "dev-master",
         "symfony/dotenv": "*",
-        "symfony/flex": "^1.1",
+        "symfony/flex": "^2.0",
         "symfony/framework-bundle": "*",
         "symfony/psr-http-message-bridge": "^2.0.0@dev",
         "symfony/yaml": "*"
